@@ -5,7 +5,7 @@ import com.pugazh.assignment1.employees.Manager;
 import com.pugazh.assignment1.utilities.EmployeeUtilities;
 
 // Main class to demonstrate package usage and access modifiers.
-public class AssignmentMain {
+public class Assignment1Main {
     public static void main(String[] args) {
         // Creating Manager Object
         Manager manager = new Manager("Arun", 101, 120000, "HR");
