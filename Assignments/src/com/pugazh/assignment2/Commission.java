@@ -11,6 +11,7 @@ public class Commission {
 	private double sales_amount;
 	
 	// Method 1 -> Getting User Inputs
+	@SuppressWarnings("resource")
 	public void userDetails() {
 		
 		Scanner in = new Scanner(System.in);
